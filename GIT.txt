@@ -1,0 +1,5 @@
+tổng quan về git
+- đọc tìm hiểu về git, miêu tả git bằng 1 câu dễ hiểu
+-git init
+- git add .
+- git commit -m"version"
